@@ -1,0 +1,30 @@
+.elementor-142 .elementor-element.elementor-element-81affc9 .elementor-repeater-item-672537f.jet-parallax-section__layout .jet-parallax-section__image{background-size:auto;}.elementor-142 .elementor-element.elementor-element-8f72247 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-142 .elementor-element.elementor-element-b0f5e41 .elementor-repeater-item-672537f.jet-parallax-section__layout .jet-parallax-section__image{background-size:auto;}.elementor-142 .elementor-element.elementor-element-9a93d69 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-142 .elementor-element.elementor-element-eee64d6 > .elementor-container{max-width:1240px;}.elementor-142 .elementor-element.elementor-element-eee64d6 .elementor-repeater-item-672537f.jet-parallax-section__layout .jet-parallax-section__image{background-size:auto;}.elementor-142 .elementor-element.elementor-element-480f99b > .elementor-element-populated{padding:0px 20px 0px 20px;}/* Start custom CSS for html, class: .elementor-element-47324dc */.bullet_line > li{
+	padding-left:10px;
+	position:relative;
+}
+
+.bullet_line > li:before{
+	width:5px;
+	height:1px;
+	background-color:#333;
+	position:absolute;
+	top:10px;
+	left:0;
+	content:'';
+	display:block;
+}/* End custom CSS */
+/* Start custom CSS for html, class: .elementor-element-47324dc */.bullet_line > li{
+	padding-left:10px;
+	position:relative;
+}
+
+.bullet_line > li:before{
+	width:5px;
+	height:1px;
+	background-color:#333;
+	position:absolute;
+	top:10px;
+	left:0;
+	content:'';
+	display:block;
+}/* End custom CSS */
